@@ -1,3 +1,36 @@
 .header {
   display: flex;
+  background-color: #222;
+  color: white;
+}
+
+.header-left {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.header-right {
+  margin-right: 20px;
+}
+
+.nav {
+  list-style: none;
+  display: inline-block;
+}
+
+.nav li {
+  float: right;
+  margin-right: 10px;
+}
+
+#about:hover {
+  color: #e335af;
+}
+
+#work:hover {
+  color: #e3ce43;
+}
+
+#contact:hover {
+  color: #05f5e9;
 }

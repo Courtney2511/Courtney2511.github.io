@@ -5,11 +5,15 @@ class Header extends Component {
   render() {
     return (
       <div className="header">
-        <div>
-          <h3 className="red">Courtney Noonan</h3>
+        <div className="header-left">
+          <h3>COURTNEY NOONAN</h3>
         </div>
-        <div>
-          <p>NAV STUFF</p>
+        <div className="header-right">
+          <ul className="nav">
+            <li id="contact">CONTACT</li>
+            <li id="work">WORK</li>
+            <li id="about">ABOUT</li>
+          </ul>
         </div>
       </div>
     )
