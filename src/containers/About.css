@@ -1,0 +1,19 @@
+.about {
+  background-image: url('../images/sailing-gold.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 800px;
+}
+
+.content {
+  width: 80%;
+  height: 80%;
+  border: solid 1px red;
+  margin: 0 auto;
+}
+
+.content p {
+  color: white;
+  line-height: 1.5em;
+  padding-top: 20px;
+}
