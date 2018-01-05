@@ -2,6 +2,7 @@
   display: flex;
   background-color: #222;
   color: white;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .header-left {
@@ -16,11 +17,13 @@
 .nav {
   list-style: none;
   display: inline-block;
+  margin-top: 18.72px;
 }
 
 .nav li {
   float: right;
   margin-right: 10px;
+  font-size: 14px;
 }
 
 #about:hover {
