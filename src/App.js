@@ -2,15 +2,18 @@ import React, { Component } from 'react'
 import logo from './logo.svg'
 import Header from './components/Header'
 import Hero from './components/Hero'
+import About from './containers/About'
 import 'normalize.css/normalize.css'
 import './App.css'
+import { Route } from 'react-router-dom'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <Header />
-        <Hero />
+        <Route path="/about" component={About} />
+        <Route exact path="/" component={Hero} />
       </div>
     )
   }
