@@ -1,0 +1,34 @@
+.work {
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.project {
+  border: solid 1px red;
+  display: flex;
+}
+
+.project img {
+  height: 200px;
+  width: 300px;
+}
+
+.project-right {
+  padding: 15px;
+}
+
+.project-right h4,
+h2 {
+  color: #606163;
+  margin: 2px;
+  font-family: 'Glegoo', serif;
+}
+
+.project-right small {
+  color: #a8abaf;
+}
+
+/* alternate fonts
+font-family: 'Sanchez', serif;
+font-family: 'Lustria', serif;*/
