@@ -11,6 +11,20 @@ class Hero extends Component {
           <h1 id="highlight">{` { FULL STACK } `}</h1>
           <h1> Web Developer</h1>
         </span>
+        <div className="social">
+          <a href="https://github.com/Courtney2511" target="_blank">
+            <i class="fa fa-github-square" aria-hidden="true" />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/courtneynoonan2511/"
+            target="_blank"
+          >
+            <i class="fa fa-linkedin-square" aria-hidden="true" />
+          </a>
+          <a href="mailto:courtneynoonan@me.com">
+            <i class="fa fa-envelope" aria-hidden="true" />
+          </a>
+        </div>
       </div>
     )
   }

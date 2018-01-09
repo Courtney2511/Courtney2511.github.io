@@ -6,7 +6,7 @@
 }
 
 #hi {
-  font-size: 70px;
+  font-size: 80px;
   font-family: 'Give You Glory', cursive;
   color: white;
 }
@@ -21,7 +21,7 @@ span h1 {
   padding-top: 60px;
   padding-left: 60px;
   font-size: 50px;
-  /*font-weight: normal;*/
+  font-weight: normal;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -29,4 +29,20 @@ span h1 {
   font-family: 'Stint Ultra Expanded', cursive;
   font-size: 40px;
   color: #05f5e9;
+}
+
+.social {
+  padding-left: 60px;
+  padding-top: 60px;
+  height: 70px;
+}
+
+.social i {
+  margin-right: 20px;
+  font-size: 50px;
+  color: white;
+}
+
+.social i:hover {
+  transform: scale(1.2);
 }

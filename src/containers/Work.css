@@ -5,13 +5,12 @@
 }
 
 .project {
-  border: solid 1px red;
+  /*border: solid 1px red;*/
   display: flex;
 }
 
 .project img {
-  height: 200px;
-  width: 300px;
+  width: 400px;
 }
 
 .project-right {
