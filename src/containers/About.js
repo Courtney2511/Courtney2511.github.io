@@ -6,19 +6,23 @@ class About extends Component {
     return (
       <div className="about">
         <div className="content">
+          <p>My name is Courtney, Sales Professional turned Developer.</p>
           <p>
-            My name is Courtney. I am a Sales professional turned Web Developer.
-            In May 2016 I completed the Full Stack Web Development Intensive at
-            Bitmaker in Toronto. After completion of the program, I wanted to
-            continue working on my development skills and enrolled in the Full
-            Stack Web Development nanodegree offered through Udacity. I enjoyed
-            the course so much that I also completed the React nanodegree that
-            they offered.
+            I started my web development journey with the Full Stack Web
+            Development Intensive at Bitmaker in Toronto. After completion of
+            the program, I wanted to continue working on my development skills
+            so I completed two nanodegrees through Udacity: Full Stack Web
+            Development and React.
           </p>
           <p>
-            Outside of web development, I like to live an active healthy
-            lifestyle. On summer weekends you can catch me up north with the
-            family and dog on our boat sailing the waters of Lake Simcoe.
+            A problem solver at heart, I love working through interesting
+            challenges and I am always looking for the best solution.
+          </p>
+          <p>
+            When I'm not working behind my laptop, I like to spend my time
+            working on my yoga practice and spending as much time in the
+            outdoors as possible. Sailing Lake Simcoe and hiking are a couple of
+            my favourite activities.
           </p>
         </div>
       </div>

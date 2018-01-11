@@ -14,11 +14,6 @@ class Header extends Component {
         <div className="header-right">
           <ul className="nav">
             <li>
-              <Link to="/blog" id="blog">
-                BLOG
-              </Link>
-            </li>
-            <li>
               <Link to="/work" id="work">
                 WORK
               </Link>
