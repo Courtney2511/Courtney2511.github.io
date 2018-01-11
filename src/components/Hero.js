@@ -12,12 +12,17 @@ class Hero extends Component {
           <h1> Web Developer</h1>
         </span>
         <div className="social">
-          <a href="https://github.com/Courtney2511" target="_blank">
+          <a
+            href="https://github.com/Courtney2511"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i class="fa fa-github-square" aria-hidden="true" />
           </a>
           <a
             href="https://www.linkedin.com/in/courtneynoonan2511/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i class="fa fa-linkedin-square" aria-hidden="true" />
           </a>

@@ -7,18 +7,18 @@ class About extends Component {
       <div className="about">
         <div className="content">
           <p>
-            Lorem ipsum dolor sit amet, ad pro prima volutpat cotidieque, ad has
-            decore dolorem erroribus. Antiopam reformidans definitiones in qui.
-            Sea ei tacimates eloquentiam, no placerat partiendo honestatis mel.
-            No detraxit nominati pro, cu mei sonet saepe, aperiam maiestatis has
-            ne. Petentium efficiendi an vim.
+            My name is Courtney. I am a Sales professional turned Web Developer.
+            In May 2016 I completed the Full Stack Web Development Intensive at
+            Bitmaker in Toronto. After completion of the program, I wanted to
+            continue working on my development skills and enrolled in the Full
+            Stack Web Development nanodegree offered through Udacity. I enjoyed
+            the course so much that I also completed the React nanodegree that
+            they offered.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, ad pro prima volutpat cotidieque, ad has
-            decore dolorem erroribus. Antiopam reformidans definitiones in qui.
-            Sea ei tacimates eloquentiam, no placerat partiendo honestatis mel.
-            No detraxit nominati pro, cu mei sonet saepe, aperiam maiestatis has
-            ne. Petentium efficiendi an vim.
+            Outside of web development, I like to live an active healthy
+            lifestyle. On summer weekends you can catch me up north with the
+            family and dog on our boat sailing the waters of Lake Simcoe.
           </p>
         </div>
       </div>

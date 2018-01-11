@@ -6,14 +6,15 @@
 }
 
 .content {
-  width: 80%;
+  width: 70%;
   height: 80%;
   border: solid 1px red;
   margin: 0 auto;
+  line-height: 1.5em;
 }
 
 .content p {
-  color: white;
+  color: ##222;
   line-height: 1.5em;
   padding-top: 20px;
 }
