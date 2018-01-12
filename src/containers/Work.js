@@ -24,7 +24,7 @@ class Work extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              see the code
+              <i class="fa fa-github fa-lg" aria-hidden="true" /> see the code
             </a>
           </div>
         </div>
@@ -43,7 +43,7 @@ class Work extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              see the code
+              <i class="fa fa-github fa-lg" aria-hidden="true" /> see the code
             </a>
           </div>
         </div>
@@ -66,7 +66,7 @@ class Work extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              see the code
+              <i class="fa fa-github fa-lg" aria-hidden="true" /> see the code
             </a>
           </div>
         </div>
@@ -91,7 +91,7 @@ class Work extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              see the code
+              <i class="fa fa-github fa-lg" aria-hidden="true" /> see the code
             </a>
           </div>
         </div>
@@ -113,7 +113,7 @@ class Work extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              see the code
+              <i class="fa fa-github fa-lg" aria-hidden="true" /> see the code
             </a>
           </div>
         </div>
